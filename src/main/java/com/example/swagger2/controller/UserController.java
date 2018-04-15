@@ -34,5 +34,6 @@ public class UserController {
 		System.out.println("hello");
 		System.out.println("word");
 		System.out.println("你好");
+		System.out.println("不好");
 	}
 }
