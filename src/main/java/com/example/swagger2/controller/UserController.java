@@ -39,4 +39,8 @@ public class UserController {
 		System.out.println("第二次瞅瞅图");
 		System.out.println("第二次冲突");
 	}
+
+	public void test1() {
+		System.out.println("1");
+	}
 }
