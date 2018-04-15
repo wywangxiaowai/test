@@ -29,4 +29,9 @@ public class UserController {
 		System.out.println(user);
 		return "success";
 	}
+
+	public void test() {
+		System.out.println("hello");
+	}
+
 }
