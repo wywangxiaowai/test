@@ -6,7 +6,6 @@ public class Test2 {
 	}
 
 	public void test2() {
-		System.out.println("冲突eclipse");
-		System.out.println("word");
+		System.out.println("来呀");		System.out.println("冲突eclipse");		System.out.println("word");
 	}
 }
