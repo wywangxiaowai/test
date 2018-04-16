@@ -9,5 +9,6 @@ public class Test2 {
 		System.out.println("来呀");
 		System.out.println("冲突eclipse");
 		System.out.println("word");
+		System.out.println("再来一个冲突");
 	}
 }
