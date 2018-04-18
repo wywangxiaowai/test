@@ -13,5 +13,7 @@ public class Test2 {
 		System.out.println("冲突呢");
 		System.out.println("说好的第六行冲突");
 		System.out.println("内部解决冲突");
+		System.out.println("第八行sts");
+		System.out.println("第八行eclipse");
 	}
 }
