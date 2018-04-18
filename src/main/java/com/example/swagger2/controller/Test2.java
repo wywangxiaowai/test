@@ -25,4 +25,13 @@ public class Test2 {
 		System.out.println("sts第三行");
 		System.out.println("ec第三行");
 	}
+
+	public void test4() {
+
+	}
+
+	public void test5() {
+
+	}
+
 }
