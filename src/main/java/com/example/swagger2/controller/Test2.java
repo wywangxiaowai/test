@@ -20,13 +20,7 @@ public class Test2 {
 	}
 
 	public void test3() {
-		System.out.println("第一行");
-		System.out.println("sts第一行");
-		System.out.println("第三行");
-		System.out.println("sts第一行");
-		System.out.println("sts第五行");
-		System.out.println("第五行");
-		System.out.println("第六行");
+
 	}
 
 }
