@@ -20,7 +20,7 @@ public class Test2 {
 	}
 
 	public void test3() {
-		
+		System.out.println("第一行");
 	}
 
 }
