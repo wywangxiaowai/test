@@ -21,6 +21,8 @@ public class Test2 {
 
 	public void test3() {
 		System.out.println("sts第一行");
-		System.out.println("ec第一行");	}
+		System.out.println("ec第一行");
+		System.out.println("ec第三行");
+	}
 
 }
