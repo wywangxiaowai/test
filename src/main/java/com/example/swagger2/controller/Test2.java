@@ -18,4 +18,9 @@ public class Test2 {
 		System.out.println("第十行sts");
 		System.out.println("第十行eclipse");
 	}
+
+	public void test3() {
+
+	}
+
 }
