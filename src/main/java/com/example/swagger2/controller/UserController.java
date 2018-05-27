@@ -45,6 +45,5 @@ public class UserController {
 		System.out.println("2");
 		System.out.println("我知道你是三");
 		System.out.println("这是三");
-		System.out.println("3567");
 	}
 }
